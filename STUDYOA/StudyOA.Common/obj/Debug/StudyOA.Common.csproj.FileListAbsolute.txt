@@ -1,0 +1,10 @@
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\StudyOA.Common.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\StudyOA.Common.pdb
+F:\code\OA\STUDYOA\StudyOA.Common\obj\Debug\StudyOA.Common.dll
+F:\code\OA\STUDYOA\StudyOA.Common\obj\Debug\StudyOA.Common.pdb
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\Commons.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\log4net.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\Memcached.ClientLibrary.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\Newtonsoft.Json.dll
+F:\code\OA\STUDYOA\StudyOA.Common\bin\Debug\Newtonsoft.Json.xml

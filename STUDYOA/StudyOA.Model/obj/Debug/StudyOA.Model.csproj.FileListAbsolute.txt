@@ -1,0 +1,13 @@
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\StudyOA.Model.dll.config
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\StudyOA.Model.dll
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\StudyOA.Model.pdb
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\EntityFramework.dll
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\Newtonsoft.Json.dll
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\EntityFramework.xml
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\Newtonsoft.Json.xml
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\code\OA\STUDYOA\StudyOA.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\code\OA\STUDYOA\StudyOA.Model\obj\Debug\StudyOA.Model.dll
+F:\code\OA\STUDYOA\StudyOA.Model\obj\Debug\StudyOA.Model.pdb

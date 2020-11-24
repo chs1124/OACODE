@@ -1,0 +1,14 @@
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\StudyOA.SpringNet.exe.config
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\StudyOA.SpringNet.exe
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\StudyOA.SpringNet.pdb
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\Spring.Core.dll
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\Spring.Core.pdb
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\Spring.Core.xml
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.csprojResolveAssemblyReference.cache
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.Form1.resources
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.Properties.Resources.resources
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.csproj.GenerateResource.Cache
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.exe
+F:\code\OA\STUDYOA\StudyOA.SpringNet\obj\Debug\StudyOA.SpringNet.pdb
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\Common.Logging.dll
+F:\code\OA\STUDYOA\StudyOA.SpringNet\bin\Debug\ObjectConfig.xml

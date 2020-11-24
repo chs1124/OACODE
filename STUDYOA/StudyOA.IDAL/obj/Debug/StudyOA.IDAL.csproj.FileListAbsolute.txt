@@ -1,0 +1,16 @@
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\StudyOA.IDAL.dll.config
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\StudyOA.IDAL.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\StudyOA.IDAL.pdb
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\EntityFramework.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\StudyOA.Model.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\Newtonsoft.Json.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\StudyOA.Model.pdb
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\EntityFramework.xml
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\Newtonsoft.Json.xml
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\obj\Debug\StudyOA.IDAL.csprojResolveAssemblyReference.cache
+F:\code\OA\STUDYOA\StudyOA.IDAL\obj\Debug\StudyOA.IDAL.dll
+F:\code\OA\STUDYOA\StudyOA.IDAL\obj\Debug\StudyOA.IDAL.pdb

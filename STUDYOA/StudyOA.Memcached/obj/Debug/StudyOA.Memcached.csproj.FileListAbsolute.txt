@@ -1,0 +1,13 @@
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\StudyOA.Memcached.exe.config
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\StudyOA.Memcached.exe
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\StudyOA.Memcached.pdb
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\Commons.dll
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\log4net.dll
+F:\code\OA\STUDYOA\StudyOA.Memcached\bin\Debug\Memcached.ClientLibrary.dll
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.csprojResolveAssemblyReference.cache
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.Form1.resources
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.Properties.Resources.resources
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.csproj.GenerateResource.Cache
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.exe
+F:\code\OA\STUDYOA\StudyOA.Memcached\obj\Debug\StudyOA.Memcached.pdb

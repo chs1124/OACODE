@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object  type="StudyOA.WebApp.Controllers.UserInfoController, StudyOA.WebApp" singleton="false" >
+    <property name="userInfoService" ref="UserInfoService" />
+   <property name="RoleInfoService" ref="RoleInfoService" />
+    <property name="ActionInfoService" ref="ActionInfoService" />
+
+  </object>
+
+  <object  type="StudyOA.WebApp.Controllers.LoginController, StudyOA.WebApp" singleton="false" >
+    <property name="userInfoService" ref="UserInfoService" />
+  </object>
+
+  <object  type="StudyOA.WebApp.Controllers.RoleInfoController, StudyOA.WebApp" singleton="false" >
+    <property name="roleInfoService" ref="RoleInfoService" />
+  </object>
+  <!--intentionally do NOT register the AccountController or the ValuesController with the container; demonstrates that the underlying
+  default controller factory will properly (attempt to!) resolve all controllers not registered with Spring.NET
+  using its default controller resolution behavoir-->
+  <!--<object type="Spring.Mvc4QuickStart.Controllers.AccountController, Spring.Mvc4QuickStart" singleton="false" />-->
+  <!--<object type="Spring.Mvc4QuickStart.Controllers.ValuesController, Spring.Mvc4QuickStart" singleton="false" />-->
+</objects>
